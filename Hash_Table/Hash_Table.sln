@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_Table", "Hash_Table\Hash_Table.csproj", "{F7AFE041-2C44-45EB-B1BB-6B624DF2B485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC1-Find_Frequancy_Of_Words", "UC1 -Find_Frequancy_Of_Words\UC1-Find_Frequancy_Of_Words.csproj", "{C5AB9B3B-96DA-4301-B048-5AC35397CE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2-Find_Frequency_Of_Words_Large_Paragraph", "Find_Frequency_Of_Words_In_A_Large\UC2-Find_Frequency_Of_Words_Large_Paragraph.csproj", "{589D64FC-ED48-4CDA-8F12-4061CEEB1EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3-Remove_Avoidable_Word_From_phrase", "UC3-Remove_Avoidable_Word_From_phrase\UC3-Remove_Avoidable_Word_From_phrase.csproj", "{08031F06-FFDF-4F95-BE88-57DEBE06FD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2-Find_Frequency_Of_Words_In_A_Large", "UC2-Find_Frequency_Of_Words_In_A_Large\UC2-Find_Frequency_Of_Words_In_A_Large.csproj", "{7F2D7D97-97A0-46EC-B844-2E6F7D626AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AFE041-2C44-45EB-B1BB-6B624DF2B485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AFE041-2C44-45EB-B1BB-6B624DF2B485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AFE041-2C44-45EB-B1BB-6B624DF2B485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AFE041-2C44-45EB-B1BB-6B624DF2B485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AB9B3B-96DA-4301-B048-5AC35397CE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AB9B3B-96DA-4301-B048-5AC35397CE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AB9B3B-96DA-4301-B048-5AC35397CE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AB9B3B-96DA-4301-B048-5AC35397CE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589D64FC-ED48-4CDA-8F12-4061CEEB1EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589D64FC-ED48-4CDA-8F12-4061CEEB1EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589D64FC-ED48-4CDA-8F12-4061CEEB1EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589D64FC-ED48-4CDA-8F12-4061CEEB1EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08031F06-FFDF-4F95-BE88-57DEBE06FD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08031F06-FFDF-4F95-BE88-57DEBE06FD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08031F06-FFDF-4F95-BE88-57DEBE06FD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08031F06-FFDF-4F95-BE88-57DEBE06FD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2D7D97-97A0-46EC-B844-2E6F7D626AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2D7D97-97A0-46EC-B844-2E6F7D626AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2D7D97-97A0-46EC-B844-2E6F7D626AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2D7D97-97A0-46EC-B844-2E6F7D626AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058821C5-1257-4C50-A422-6EF1B41131B3}
+	EndGlobalSection
+EndGlobal
