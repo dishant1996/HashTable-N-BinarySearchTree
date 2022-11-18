@@ -1,0 +1,14 @@
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\bin\Debug\netcoreapp3.1\UC4.exe
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\bin\Debug\netcoreapp3.1\UC4.deps.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\bin\Debug\netcoreapp3.1\UC4.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\bin\Debug\netcoreapp3.1\UC4.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\bin\Debug\netcoreapp3.1\UC4.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\bin\Debug\netcoreapp3.1\UC4.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\BinarySearchTree\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.genruntimeconfig.cache
